@@ -10,6 +10,7 @@ import java.util.*;
 //the user to make guesses until the user guesses the correct integer.
 //The user is then given the option to play more games or stop playing
 //and view their results.
+
 public class GuessingGame {
    private static final int MAX_GUESS = 100;
    public static void main (String[] args){
