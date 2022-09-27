@@ -3,7 +3,7 @@
 //September 27, 2022
 //Lab 1: Guessing Game
 
-import java.util.*;
+import java.util.*; //imports libraries for Scanner and Random objects
 
 //This program allows the user to play a simple guessing game where
 //the program produces a random integer within a given range and allows
